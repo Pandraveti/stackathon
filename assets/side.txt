@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Earning Techniques</title>
+</head>
+<body style="background-color:azure">
+    
+    <h1><center><b><u>Side Hustles from which students can earn money</u></b></center></h1>
+    <p>A side hustle is any activity outside of your day job that helps make more money. Technically this can mean a part-time job or work done.</p>
+    <br>
+    <center><img src="firstimg.jpg" width="400cm" height="350cm"></center>
+    <br>
+    <p>Students can find their own ways to earn money not depending on their elders for every small necessary.A student can earn his/her own pocket money by acquiring some side hustles.So lets know more about it.</p>
+    <h3>1.Freelancing</h3>
+    <right><img src="freelance.png" width="400cm" height="300cm"></right>
+    <p>Freelancers have increased access to the global work marketplace through Upwork and other freelance job platforms. A decade ago, some people may have been interested in freelancing, but pairing freelancers with interested clients was difficult without an established online marketplace. Today, Upwork helps millions of freelancers find rewarding and fulfilling work with increased access to various types of jobs.
+Technology is making it easier to communicate and collaborate on work projects. With the rise of work collaboration tools such as Zoom, Google Drive, and Slack, people can work together without being together. This change has led many businesses to realize that it is possible to work with talented individuals worldwide, not just within their city,but also outside. Some freelancing jobs include video editing, graphic design, web development, copywriting etc.</p>
+    
+ <h3>2.Content creation</h3>
+    <right><img src="content.jpg" width="350cm" height="300cm"></right>
+    <p>Content creation is the process of generating topic ideas that appeal to your buyer persona, creating written or visual content around those ideas, and making that information accessible to your audience as a blog, video, infographic, or other content formats. Content creation is the ultimate inbound marketing practice. When you create content, you are providing free and useful information to your audience, attracting potential customers to your website, and retaining existing customers through quality engagement. Students can create content on various social media sites such as instagram, youtube, twitter, facebook etc. </p>
+
+ <h3>3.Online tutoring</h3>
+    <right><img src="tutor.jpg" width="400cm" height="300cm"></right>
+    <p>There are many platform that reuire tutors who are students,teachers, professors, adjuncts, PhD students, and industry professionals who are all passionate about their areas of expertise and eager to help students learn.
+
+They help learners of all ages and stages -from kindergarten through college, continuing education, and career. The tutors provide empowering, encouraging support to help students complete their assignments, improve their grades, and persist in their studies. Every day, thousands of students share positive feedback about their online tutoring experiences.
+
+The online tutoring platform makes connecting with students (and earning extra income!) simple, convenient, and flexible. </p>
